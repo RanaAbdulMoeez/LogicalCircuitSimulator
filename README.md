@@ -91,3 +91,6 @@ Simulation Steps
 4.  Components at each logic depth level are resolved in order.
     
 5.  Outputs are computed only after all required inputs are resolved.
+
+![image](https://github.com/user-attachments/assets/ed7f2d50-2f87-48d3-b6d8-4d4b94d8b139)
+
