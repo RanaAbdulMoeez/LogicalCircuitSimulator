@@ -94,3 +94,6 @@ Simulation Steps
 
 ![image](https://github.com/user-attachments/assets/ed7f2d50-2f87-48d3-b6d8-4d4b94d8b139)
 
+![image](https://github.com/user-attachments/assets/9eb4e109-4ae5-478d-9f12-a0d14cfd8804)
+
+
