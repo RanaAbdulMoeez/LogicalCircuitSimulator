@@ -92,7 +92,7 @@ Simulation Steps
     
 5.  Outputs are computed only after all required inputs are resolved.
 
-![image](https://github.com/user-attachments/assets/ed7f2d50-2f87-48d3-b6d8-4d4b94d8b139)
+![image](https://github.com/user-attachments/assets/92a9d4f9-17f8-4c3f-9a86-1a3a3630019f)
 
 ![image](https://github.com/user-attachments/assets/9eb4e109-4ae5-478d-9f12-a0d14cfd8804)
 
